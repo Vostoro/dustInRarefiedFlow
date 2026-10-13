@@ -1,0 +1,16 @@
+backup/*
+Guide.txt
+Backups/*
+my_simple/*
+post_process_logs/*
+Log/*
+SpaceSave/*
+python_post_process/*
+VV-full-plume-inboard-3D-he-massinflow-absorbingWall-hpc-template/*
+
+!python_post_process/main.py
+!python_post_process/physics.py
+!python_post_process/multi_controller.py
+!python_post_process/single_controller.py
+!python_post_process/plotter.py
+!python_post_process/mesh_reader.py
